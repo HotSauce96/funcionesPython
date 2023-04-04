@@ -1,6 +1,6 @@
 # Función de Login:
 
-def Login():
+def login():
     
     #Se declara la variable intentos y se inicia en 0
     
@@ -25,4 +25,4 @@ def Login():
     
    # Se llama la función.
     
-Login()
+login()
