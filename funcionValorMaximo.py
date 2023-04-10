@@ -30,3 +30,21 @@ lista = [4, -5, -1, 8, 7, 10, 16]
 # Llamada a la función para encontrar el valor máximo y mínimo.
 
 determinar_valores(lista)
+
+
+
+# Misma función, pidiendo inputs, con lógica más avanzada: 
+
+#def encontrar_maximo_minimo():
+    # Pide al usuario que ingrese una lista de números separados por comas
+ #   lista_str = input("Ingresa una lista de números separados por comas: ")
+    
+    # Convierte la entrada de texto en una lista de números
+ #  lista = [int(x) for x in lista_str.split(",")]
+    
+    # Encuentra el valor máximo y mínimo en la lista
+#    maximo = max(lista)
+#   minimo = min(lista)
+    
+    # Devuelve el valor máximo y mínimo como una tupla
+#    return maximo, minimo
