@@ -25,6 +25,8 @@ def calcular_temp():
     print(f"el promedio del día fue: {promedio_dia}")
 
 
+# CODIGO QUE FALTA 
+
     # dias_semana = 4
     
     # promedio_semana = []
